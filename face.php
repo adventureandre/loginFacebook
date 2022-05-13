@@ -3,8 +3,8 @@ session_start();
 
 require_once 'lib/Facebook/autoload.php';
 $fb = new \Facebook\Facebook([
-    'app_id' => '389681588523054',
-    'app_secret' => '886eb2cd62081b5ea552a338d8c0cbfd',
+    'app_id' => '*******',
+    'app_secret' => '******',
     'default_graph_version' => 'v2.10',
     //'default_access_token' => '{access-token}', // optional
 
